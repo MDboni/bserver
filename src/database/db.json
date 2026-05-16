@@ -1,0 +1,37 @@
+{
+  "countries": [
+    {
+      "id": 1,
+      "cname": "Bangladesh",
+      "currency": "BDTTake"
+    },
+    {
+      "id": 3,
+      "cname": "India",
+      "currency": "INR"
+    },
+    {
+      "id": 4,
+      "cname": "United Kingdom",
+      "currency": "GBP"
+    },
+    {
+      "id": 5,
+      "cname": "Japan",
+      "currency": "JPY"
+    },
+    {
+      "id": 6,
+      "currency": "USD"
+    },
+    {
+      "id": 7,
+      "currency": "USD"
+    },
+    {
+      "id": 8,
+      "cname": "Canadaa",
+      "currency": "USD"
+    }
+  ]
+}
